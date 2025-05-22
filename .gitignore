@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+.vscode/
+pubspec.lock
+android/.gradle
+ios/Pods/
+macos/Pods/
+windows/build/
+web/build/
